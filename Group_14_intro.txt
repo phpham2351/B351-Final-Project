@@ -1,0 +1,6 @@
+ Group 14 Final Project
+ Phuc Pham, Matthew Zelenin, Samuel Oates
+
+ Pick a Tune:
+  Machine Learning program that selects a song for someone based on their
+  prior listening preferences.

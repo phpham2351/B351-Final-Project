@@ -1,0 +1,411 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+            },
+            "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+            "id": "4NHQUGzhtTLFvgF5SZesLK",
+            "name": "Tove Lo",
+            "type": "artist",
+            "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y"
+        },
+        "href": "https://api.spotify.com/v1/albums/1tuekzsMZQOuiMejKP6t2Y",
+        "id": "1tuekzsMZQOuiMejKP6t2Y",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/5259a2b0bf2a72d69ae0d0677be7daa1efc145f7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/544f22d618493d4647bd00f6b27584896971d3bc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/48276ccb52fe2451262554b69725aa4b4adfa248",
+            "width": 64
+          }
+        ],
+        "name": "Lady Wood",
+        "type": "album",
+        "uri": "spotify:album:1tuekzsMZQOuiMejKP6t2Y"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+          "id": "4NHQUGzhtTLFvgF5SZesLK",
+          "name": "Tove Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204194,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "SEUM71601583"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6s7PleW93OfE3YnujL9yxw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6s7PleW93OfE3YnujL9yxw",
+      "id": "6s7PleW93OfE3YnujL9yxw",
+      "is_playable": true,
+      "name": "True Disaster",
+      "popularity": 58,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6s7PleW93OfE3YnujL9yxw"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+            "id": "0X2BH1fck6amBIoJhDVmmJ",
+            "name": "Ellie Goulding",
+            "type": "artist",
+            "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv"
+        },
+        "href": "https://api.spotify.com/v1/albums/5nhoVKDcCXvi3AruUFJWnv",
+        "id": "5nhoVKDcCXvi3AruUFJWnv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/b451043e9adb93e9552f17b972ffb4bed7ff7364",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/36b3103435d216dedff6c40fe8c2d662df8b9d89",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/29422e611a5758c200a46522b3da5e9b639a712d",
+            "width": 64
+          }
+        ],
+        "name": "Delirium (Deluxe)",
+        "type": "album",
+        "uri": "spotify:album:5nhoVKDcCXvi3AruUFJWnv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ",
+          "id": "0X2BH1fck6amBIoJhDVmmJ",
+          "name": "Ellie Goulding",
+          "type": "artist",
+          "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252534,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBUM71507204"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2l8w0zZVn4AZNuzrht7MRT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2l8w0zZVn4AZNuzrht7MRT",
+      "id": "2l8w0zZVn4AZNuzrht7MRT",
+      "is_playable": true,
+      "linked_from": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zHq9ouUJQFQRf3cm1rRLu",
+        "id": "3zHq9ouUJQFQRf3cm1rRLu",
+        "type": "track",
+        "uri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu"
+      },
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "popularity": 67,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2l8w0zZVn4AZNuzrht7MRT"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+            },
+            "href": "https://api.spotify.com/v1/artists/7keGfmQR4X5w0two1xKZ7d",
+            "id": "7keGfmQR4X5w0two1xKZ7d",
+            "name": "Kungs",
+            "type": "artist",
+            "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+        },
+        "href": "https://api.spotify.com/v1/albums/66KCBRiOFSs9bki2A15WlB",
+        "id": "66KCBRiOFSs9bki2A15WlB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/9fa8adcb307837e08f1355af6c569f9b573f8cef",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/76a8616ed26dafcfd17ece93cf3578fec10b884e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/96125948ff9d9764b4fcd0aa6d3a3ebaafd0b57f",
+            "width": 64
+          }
+        ],
+        "name": "Layers",
+        "type": "album",
+        "uri": "spotify:album:66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          },
+          "href": "https://api.spotify.com/v1/artists/7keGfmQR4X5w0two1xKZ7d",
+          "id": "7keGfmQR4X5w0two1xKZ7d",
+          "name": "Kungs",
+          "type": "artist",
+          "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7JBohcnAdfcFbZbYVZpKC2",
+          "id": "7JBohcnAdfcFbZbYVZpKC2",
+          "name": "Lune",
+          "type": "artist",
+          "uri": "spotify:artist:7JBohcnAdfcFbZbYVZpKC2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176346,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR9W11618108"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JdhojQ6h2Cy2t6uH5jPAa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JdhojQ6h2Cy2t6uH5jPAa",
+      "id": "5JdhojQ6h2Cy2t6uH5jPAa",
+      "is_playable": true,
+      "name": "Tripping Off",
+      "popularity": 52,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5JdhojQ6h2Cy2t6uH5jPAa"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yG7ZAZafVaAlMTeBybKAL",
+            "id": "5yG7ZAZafVaAlMTeBybKAL",
+            "name": "Iggy Azalea",
+            "type": "artist",
+            "uri": "spotify:artist:5yG7ZAZafVaAlMTeBybKAL"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3Q7SysxADH9iI1Z85Xvfv8"
+        },
+        "href": "https://api.spotify.com/v1/albums/3Q7SysxADH9iI1Z85Xvfv8",
+        "id": "3Q7SysxADH9iI1Z85Xvfv8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/8514cc0a0a20ce384b31dd6eedf876fca8e6edb6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/420d44201bb978ac2a10a3fdc42c2621e6a2ff8a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6ab3ac09979b0ad24c0bf28c7918a9e52e100500",
+            "width": 64
+          }
+        ],
+        "name": "Reclassified",
+        "type": "album",
+        "uri": "spotify:album:3Q7SysxADH9iI1Z85Xvfv8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5yG7ZAZafVaAlMTeBybKAL",
+          "id": "5yG7ZAZafVaAlMTeBybKAL",
+          "name": "Iggy Azalea",
+          "type": "artist",
+          "uri": "spotify:artist:5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv",
+          "id": "0bdfiayQAKewqEvaU6rXCv",
+          "name": "MØ",
+          "type": "artist",
+          "uri": "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178107,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "GBUM71405403"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7MQREx2p9bXdqm8WTGVkGI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7MQREx2p9bXdqm8WTGVkGI",
+      "id": "7MQREx2p9bXdqm8WTGVkGI",
+      "is_playable": true,
+      "name": "Beg For It",
+      "popularity": 50,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7MQREx2p9bXdqm8WTGVkGI"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+            },
+            "href": "https://api.spotify.com/v1/artists/28j8lBWDdDSHSSt5oPlsX2",
+            "id": "28j8lBWDdDSHSSt5oPlsX2",
+            "name": "ZHU",
+            "type": "artist",
+            "uri": "spotify:artist:28j8lBWDdDSHSSt5oPlsX2"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3niMyy1EHzOhBwv9awRg5E"
+        },
+        "href": "https://api.spotify.com/v1/albums/3niMyy1EHzOhBwv9awRg5E",
+        "id": "3niMyy1EHzOhBwv9awRg5E",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/db3601689ecc3ebf806a50f68e4b7bf5765f3105",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/799fa850e86294e11e543e20099499c41fee4ab2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/8c05c99a3e9466253c3a543aeb5e96967e6d61ac",
+            "width": 64
+          }
+        ],
+        "name": "stardustexhalemarrakechdreams",
+        "type": "album",
+        "uri": "spotify:album:3niMyy1EHzOhBwv9awRg5E"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          },
+          "href": "https://api.spotify.com/v1/artists/28j8lBWDdDSHSSt5oPlsX2",
+          "id": "28j8lBWDdDSHSSt5oPlsX2",
+          "name": "ZHU",
+          "type": "artist",
+          "uri": "spotify:artist:28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242021,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USYBL1701295"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/50z0HWJg4sqh7H8JHol9jC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/50z0HWJg4sqh7H8JHol9jC",
+      "id": "50z0HWJg4sqh7H8JHol9jC",
+      "is_playable": true,
+      "name": "Chasing Marrakech",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/24164ba4533249525961414109f1fbef67cc53d6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:50z0HWJg4sqh7H8JHol9jC"
+    }
+  ],
+  "seeds": [
+    {
+      "initialPoolSize": 250,
+      "afterFilteringSize": 201,
+      "afterRelinkingSize": 201,
+      "id": "4NHQUGzhtTLFvgF5SZesLK",
+      "type": "ARTIST",
+      "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK"
+    },
+    {
+      "initialPoolSize": 250,
+      "afterFilteringSize": 85,
+      "afterRelinkingSize": 85,
+      "id": "0c6xIDDpzE81m2q797ordA",
+      "type": "TRACK",
+      "href": "https://api.spotify.com/v1/tracks/0c6xIDDpzE81m2q797ordA"
+    }
+  ]
+}
